@@ -16,7 +16,7 @@ The app is built with a focus on accessibility, ensuring that learning is just a
 
 Ben AI is your personal learning companion, available anytime, anywhere, making education more interactive, engaging, and convenient. The app is designed to adapt to your learning style, offering explanations and insights that match your pace and preferences. From academic queries to general knowledge, Ben AI is here to support your curiosity and enhance your learning experience.
 
-**Note:** Ben AI has usage limits based on the OpenAI API constraints. Users may experience limitations on the number of queries or interactions based on the current API plan. Please be mindful of these limits to ensure smooth and efficient use of the app.
+**Note:** <ins>Ben AI has usage limits based on the OpenAI API constraints. Users may experience limitations on the number of queries or interactions based on the current API plan. Please be mindful of these limits to ensure smooth and efficient use of the app.</ins>
 
 ## Features
 - **Interactive Learning**: Engage in meaningful conversations on a variety of topics.
