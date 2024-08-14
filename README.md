@@ -41,7 +41,7 @@ Ben AI is your personal learning companion, available anytime, anywhere, making 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
-For any inquiries or support, please contact [Your Name](mailto:your.email@example.com).
+For any inquiries or support, please contact me.
 
 ## Acknowledgements
 - [OpenAI](https://openai.com/) for the AI technology powering the chatbot.
