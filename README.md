@@ -1,6 +1,6 @@
 # Ben AI - Your Personal Learning Chatbot
 
-<section style="display:flex; gap:20px;flex-wrap:wrap;">
+<section style="display:flex; gap:20px;flex-wrap:wrap;justify-content:center;align-items:center;">
   <img src="playstore-icon.png" alt="Ben AI" width="100" height="100" />
 <img src="0.jpg" alt="Ben AI" width="300" height="480" alt="Ben AI Screen 0" />
 <img src="1.jpg" alt="Ben AI" width="300" height="480" alt="Ben AI Screen 1" />
