@@ -1,7 +1,7 @@
 # Ben AI - Your Personal Learning Chatbot
 
 <img src="playstore-icon.png" alt="Ben AI" width="100" height="100" />
-<section>
+<section style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px;">
 <img src="0.jpg" alt="Ben AI" width="300" height="480" alt="Ben AI Screen 0" />
 <img src="1.jpg" alt="Ben AI" width="300" height="480" alt="Ben AI Screen 1" />
 <img src="1.9.jpg" alt="Ben AI" width="300" height="480" alt="Ben AI Screen 2" />
