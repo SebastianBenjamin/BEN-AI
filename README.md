@@ -2,11 +2,11 @@
 
 <img src="playstore-icon.png" alt="Ben AI" width="100" height="100" />
 <section>
-<img src="0.jpg" alt="Ben AI" width="320" height="480" alt="Ben AI Screen 0" />
-<img src="1.jpg" alt="Ben AI" width="320" height="480" alt="Ben AI Screen 1" />
-<img src="1.9.jpg" alt="Ben AI" width="320" height="480" alt="Ben AI Screen 2" />
-<img src="2.jpg" alt="Ben AI" width="320" height="480" alt="Ben AI Screen 3" />
-<img src="3.jpg" alt="Ben AI" width="320" height="480" alt="Ben AI Screen 4" />
+<img src="0.jpg" alt="Ben AI" width="310" height="480" alt="Ben AI Screen 0" />
+<img src="1.jpg" alt="Ben AI" width="310" height="480" alt="Ben AI Screen 1" />
+<img src="1.9.jpg" alt="Ben AI" width="310" height="480" alt="Ben AI Screen 2" />
+<img src="2.jpg" alt="Ben AI" width="310" height="480" alt="Ben AI Screen 3" />
+<img src="3.jpg" alt="Ben AI" width="310" height="480" alt="Ben AI Screen 4" />
 </section>
 
 ## Overview
