@@ -25,7 +25,7 @@ Ben AI is your personal learning companion, available anytime, anywhere, making 
 
 ## Installation
 
-1. Download the APK file.
+1. Download the APK file (Click here)[BENAI.apk].
 
 2. Install the APK on your Android device.
 
